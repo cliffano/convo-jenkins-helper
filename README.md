@@ -27,7 +27,7 @@ Colophon
 
 Related Projects:
 
-* [Convo](http://github.com/cliffano/convo) - Specification based voice framework
+* [Convo](http://github.com/cliffano/convo) - Specification based voice and text conversation app
 * [Convo Generator](http://github.com/cliffano/convo-generator) - Convo agent and middleware generator
 * [convo-node](http://github.com/cliffano/convo-node) - node.js utility module for Convo voice framework
 * [Convo Jenkins](http://github.com/cliffano/convo-jenkins) - Convo agent and middleware for Jenkins
