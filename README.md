@@ -29,6 +29,6 @@ Related Projects:
 
 * [Convo](http://github.com/cliffano/convo) - Specification based voice and text conversation app
 * [Convo Generator](http://github.com/cliffano/convo-generator) - Convo agent and middleware generator
-* [convo-node](http://github.com/cliffano/convo-node) - node.js utility module for Convo voice framework
+* [convo-node](http://github.com/cliffano/convo-node) - node.js utility module for Convo
 * [Convo Jenkins](http://github.com/cliffano/convo-jenkins) - Convo agent and middleware for Jenkins
 * [Convo ipify](http://github.com/cliffano/convo-ipify) - Convo agent and middleware for ipify
