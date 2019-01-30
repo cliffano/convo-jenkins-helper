@@ -4,6 +4,7 @@
 [![Dependencies Status](https://img.shields.io/david/cliffano/convo-jenkins-helper.svg)](http://david-dm.org/cliffano/convo-jenkins-helper)
 [![Coverage Status](https://img.shields.io/coveralls/cliffano/convo-jenkins-helper.svg)](https://coveralls.io/r/cliffano/convo-jenkins-helper?branch=master)
 [![Published Version](https://img.shields.io/npm/v/convo-jenkins-helper.svg)](http://www.npmjs.com/package/convo-jenkins-helper)
+[![Known Vulnerabilities](https://snyk.io/test/github/cliffano/convo-jenkins-helper/badge.svg)](https://snyk.io/test/github/cliffano/convo-jenkins-helper)
 <br/>
 [![npm Badge](https://nodei.co/npm/convo-jenkins-helper.png)](http://npmjs.org/package/convo-jenkins-helper)
 
