@@ -1,6 +1,6 @@
 {
   "name": "convo-jenkins-helper",
-  "version": "0.0.2",
+  "version": "0.0.3-pre",
   "description": "Helper node.js module for Convo Jenkins",
   "keywords": [
     "convo",
